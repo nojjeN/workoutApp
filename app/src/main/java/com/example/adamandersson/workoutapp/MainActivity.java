@@ -17,6 +17,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
+    // ADAM HEJ
+
 
     public void enterHomePage(View view) {
         Intent intent = new Intent(this, homePageActivity.class);
